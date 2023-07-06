@@ -16,7 +16,7 @@ These builds may or may not be up-to-date with the latest Folia commits because 
 
 I made this because the [Paper](https://github.com/PaperMC/Paper) team refuses to provide automated builds until Folia is "ready." This was to prevent extra support requests. 
 
-Unfortunately, this insane decision made life harder for those of us who want to use Folia anyway. So, why not just make a repo that does nothing but provide these pre-fab builds?
+Unfortunately, this decision made life harder for those of us who want to use Folia anyway. So, why not just make a repo that does nothing but provide these pre-fab builds?
 
 ## Support
 
