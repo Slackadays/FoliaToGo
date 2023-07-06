@@ -35,7 +35,7 @@ jobs:
           git config --global user.name "Your Name"
           cd Folia
           ./gradlew applyPatches
-          ./gradlew createReobfBundlerJar
+          ./gradlew createReobfPaperclipJar
 
       - uses: actions/upload-artifact@v3
         with:
