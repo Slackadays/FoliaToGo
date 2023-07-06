@@ -1,6 +1,6 @@
 # 🥡🪶🤖 Folia To Go
  
-This repo has automated, nightly builds of the [Folia](https://github.com/PaperMC/Folia) Minecraft server so that you don't have to build it yourself. 
+This repo has automated, nightly builds of the [Folia](https://github.com/PaperMC/Folia) server for Minecraft so that you don't have to build it yourself. 
 
 Every midnight UTC, GitHub Actions runs [the build script](https://github.com/Slackadays/FoliaToGo/blob/main/.github/workflows/folia.yml) and uploads the server .jar to the [Actions](https://github.com/Slackadays/FoliaToGo/actions) area.
 
