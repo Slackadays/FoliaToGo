@@ -1,4 +1,4 @@
-# 🥡🪶🤖 Folia To Go
+# 🥡🤖 Folia To Go
  
 This repo has automated, nightly builds of the [Folia](https://github.com/PaperMC/Folia) server for Minecraft so that you don't have to build it yourself. 
 
