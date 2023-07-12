@@ -1,4 +1,5 @@
 # 🥡🤖 Folia To Go
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/slackadays/foliatogo/folia.yml?style=for-the-badge&logo=githubactions&label=BUILDS&labelColor=rgb(55%2C%2055%2C%2055))
  
 This repo has automated, nightly builds of the [Folia](https://github.com/PaperMC/Folia) server for Minecraft so that you don't have to build it yourself. 
 
