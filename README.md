@@ -9,24 +9,25 @@ These builds may or may not be up-to-date with the latest Folia commits because 
 
 <h1>
 <p align="center">
-<a href="https://nightly.link/Slackadays/FoliaToGo/workflows/folia/main/FoliaToGo"><code>Download the latest build</code></a>
+<a href="https://nightly.link/Slackadays/FoliaToGo/workflows/folia/main/FoliaToGo"><code>▶️ Download the latest build</code></a>
 </p>
 </h1>
 
 ## Run It Locally
 
-This does not work with the Windows command prompt or PowerShell.
+This method does not work with the Windows command prompt or PowerShell.
 
-First, clone this repo and go to its directory:
-
+First, clone this repo:
 ```sh
 git clone https://github.com/Slackadays/FoliaToGo
+```
 
+Now go to its directory:
+```sh
 cd FoliaToGo
 ```
 
 Then run the build script:
-
 ```sh
 sh build.sh
 ```
