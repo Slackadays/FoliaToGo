@@ -13,6 +13,22 @@ These builds may or may not be up-to-date with the latest Folia commits because 
 </p>
 </h1>
 
+## Run It Locally
+
+This does not work with the Windows command prompt or PowerShell.
+
+First, clone this repo:
+
+```sh
+git clone https://github.com/Slackadays/FoliaToGo
+```
+
+Then run the build script:
+
+```sh
+sh build.sh
+```
+
 ## Motivation
 
 I made this because the [Paper](https://github.com/PaperMC/Paper) team refuses to provide automated builds until Folia is "ready." This was to prevent extra support requests. 

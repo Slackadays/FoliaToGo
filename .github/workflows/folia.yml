@@ -30,12 +30,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: 'Build Folia .jar'
         run: |
-          git clone https://github.com/PaperMC/Folia
-          git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
-          cd Folia
-          ./gradlew applyPatches
-          ./gradlew createReobfPaperclipJar
+          sh build.sh
 
       - uses: actions/upload-artifact@v3
         with:
