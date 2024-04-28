@@ -30,6 +30,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: 'Build Folia .jar'
         run: |
+          sudo apt update
+          sudo apt install openjdk-17-jre-headless
           sh build.sh
 
       - uses: actions/upload-artifact@v3
