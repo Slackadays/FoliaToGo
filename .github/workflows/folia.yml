@@ -39,4 +39,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: FoliaToGo
-          path: Folia/build/libs/*.jar
+          path: Folia/folia-server/build/libs/*.jar
